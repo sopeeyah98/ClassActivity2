@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClassActivity2</string>
+    <string name="success_activity">Success</string>
+    <string name="failure_activity">Failure</string>
+    <string name="city_name">Enter city name</string>
+    <string name="go">Go</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="feels_like">Feels like</string>
+    <string name="error">No city found.</string>
+</resources>
